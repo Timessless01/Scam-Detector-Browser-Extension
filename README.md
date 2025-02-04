@@ -1,0 +1,1 @@
+# Scam-Detector-Browser-Extension

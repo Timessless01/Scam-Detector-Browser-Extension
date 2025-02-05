@@ -1,0 +1,20 @@
+Privacy Policy for Scam Detector
+Last updated: [Date]
+
+1. Introduction
+Scam Detector ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information in connection with your use of the Scam Detector Chrome extension.
+
+2. Data Collection
+We do not collect, store, or share any personal or sensitive user data. The extension operates entirely on your device and does not transmit any information to external servers.
+
+3. Google Safe Browsing API
+The extension uses the Google Safe Browsing API to check URLs for phishing and malicious content. URLs are sent securely to Google for threat analysis but are not stored or logged.
+
+4. Email Scanning
+The extension scans email content locally to detect phishing keywords and suspicious links. No email data is transmitted, stored, or collected.
+
+5. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+
+6. Contact Us
+If you have questions about this Privacy Policy, please contact us at [Lexatellah@gmail.com].

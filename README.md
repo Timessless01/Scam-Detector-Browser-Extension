@@ -23,3 +23,7 @@ An AI-powered tool to detect phishing sites, scams, and fraud in real-time.
 ## Contribute
 - Report bugs via [Issues](https://github.com/Timessless01/scam-detector-extension/issues)
 - Fork and submit PRs!
+## Donate
+If you find this project useful, consider supporting it by donating via PayPal:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/stellahnjogezi)

@@ -7,7 +7,7 @@ chrome.alarms.onAlarm.addListener((alarm) => {
 });
 
 // Replace with your Google Safe Browsing API key
-const API_KEY = 'AIzaSyAYd3nGf4SYtXJXGcDyNo2EVpoGJE9kQSo';
+const API_KEY = 'your api key';
 
 // Check URL safety (only allow HTTP/HTTPS URLs)
 async function checkUrlSafety(url) {
